@@ -1,0 +1,22 @@
+div,main,header,footer
+{
+    border-style:dashed;
+    border-color: black;
+    border-width: 2px;
+    background-color: aquamarine;
+    margin: 50px;
+}
+h1
+{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+p{
+    padding: 10px;
+    background-color: blueviolet;
+    color: white;
+    margin: 50px;
+    text-align: justify;
+    font-family: 'Permanent Marker', cursive;
+}
+
+
